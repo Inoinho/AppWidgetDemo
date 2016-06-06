@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AppWidgetDemo</string>
+    <string name="title_activity_app_widget_configure">AppWidgetConfigure</string>
+    <string name="refresh">refresh</string>
+    <string name="setting">setting</string>
+    <string name="confirm">cofirm</string>
+    <string name="cancel">cancel</string>
 </resources>
